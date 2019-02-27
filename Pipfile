@@ -13,6 +13,7 @@ torch = {file = "https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win
 torchvision = "*"
 scikit-learn = "*"
 matplotlib = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.7"
