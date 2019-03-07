@@ -1,2 +1,3 @@
 # MNIST
-practice
+
+I recommend to use `venv` or `Pipenv`.
