@@ -1,3 +1,5 @@
 # MNIST
 
-I recommend to use `venv` or `Pipenv`.
+MNIST by Scikit-learn, Pytorch,...
+
+I use [Google Colaboratory](https://colab.research.google.com/).
