@@ -1,5 +1,6 @@
 # MNIST
 
-MNIST by Scikit-learn, Pytorch,...
+- MNIST
+- Fashion-MNIST
 
 I use [Google Colaboratory](https://colab.research.google.com/).
